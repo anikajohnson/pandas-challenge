@@ -1,2 +1,5 @@
 # pandas-challenge
-pandas hw for data analytics bootcamp
+
+Heroes of Pymoli Analysis
+
+Several trends can be seen through this analysis. The majority of players are male and on average spend $0.18 less, and $0.33 less on each purchase than females and non-disclosed players respectively. These findings are similarly reflected in the average total purchase value per person with males spending $0.40 less than females and $0.49 less than non-disclosed players on all in-game purchases. The majority of players (63.37%) are between the ages of 20-24. Their average purchase price is generally slightly higher than most other age groups but within $0.15 or less, with the biggest differences average purchase coming from players under 10 who spend $0.30 more on average and 35-39 year olds who spend $0.70 more on average. This is reflected in the highest average purchase totals for players age 35-39 at $4.76 followed by players under 10 at $4.54, $0.44 and $0.22 higher than the 20-24 age group. The game Oathbreaker is most popular (greatest total purchase value) as well as most profitable (highest purchase count). This is dispite the item price of Oathbreaker being the lowest. This may indicate that if other games' item prices were lowered, more players might be willing to buy them. 
